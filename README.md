@@ -4,4 +4,4 @@ My solutions for Advent of Code 2020.
 Don't know if I have the time to do every task, but I'll try it I guess.
 I'll sometimes change up programming languages (and themes) and list them here:
 
-* Day 1: C++ (but hell)
+* Day 1: C++ (but goto)
