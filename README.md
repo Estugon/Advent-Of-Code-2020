@@ -2,7 +2,6 @@
 
 My solutions for Advent of Code 2020.
 Don't know if I have the time to do every task, but I'll try it I guess.
+I'll sometimes change up programming languages (and themes) and list them here:
 
-Used programming languages may change depending sometimes, I'll hopefully update the following list with the language I used on that day:
-
-* Day 1: C++
+* Day 1: C++ (but goto)
