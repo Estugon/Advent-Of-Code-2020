@@ -7,3 +7,4 @@ I'll sometimes change up programming languages (and themes) and list them here:
 * Day 1: C++ (but goto)
 * Day 2: C++
 * Day 3: C++ (such diversity, much wow)
+* Day 4: Lua (wtf. this was horrible.)
